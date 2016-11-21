@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "glob": "^7.1.1",
     "javascript-natural-sort": "^0.7.1"
   }
 }
