@@ -1,3 +1,2 @@
 aaaaaa
-bbb
-ccc
+ddddd
